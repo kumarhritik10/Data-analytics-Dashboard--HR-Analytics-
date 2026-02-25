@@ -1,2 +1,13 @@
 # Data-analytics-Dashboard--HR-Analytics-
-This project is an HR Analytics Dashboard developed to analyze and visualize key workforce metrics that support data-driven HR decision-making. The dashboard provides insights into employee attrition, job satisfaction, demographics, and workforce distribution across departments, job roles, education levels, age groups, and marital status. By transforming raw HR data into interactive visualizations, the project helps identify attrition trends, high-risk employee segments, and organizational patterns, enabling HR teams to improve employee retention, workforce planning, and overall organizational performance
+## Project Objective
+To analyze employee data and identify key factors influencing employee attrition and job satisfaction.
+To provide actionable insights through interactive dashboards that support effective HR decision-making and workforce planning.
+
+
+
+
+
+
+
+
+
